@@ -1,10 +1,7 @@
 # CaViPlay
 
-<<<<<<< HEAD
 ![CaViPlay](/src/images/CaViPlay.png)
 
-=======
->>>>>>> efda4dbdce86e00ad3abe75fda5de3cd2a3e0032
 CaViPlay merupakan program kalkulator website based yang dibuat dengan bahasa pemrograman HTML, CSS (Bootstrap), dan javascript. Logika kalkulator ini dibuat dengan script javascript dan juga hasilnya akan ditampilkan melalui HTML dengan hiasan CSS (Bootstrap). CaViPLay ini juga terinspirasi dari nama-nama algoritmatma klasik yang ada pada program ini, seperti Caesar Cipher, Vignere Cipher, dan Playfair Cipher. Algoritma-algoritma ini memberikan fondasi dan konsep dalam program ini, memberikan pengalaman yang menarik dalam menjelajahi dan menggunakan berbagai teknik kriptografi klasik dalam keseharian.
 
 ### Cara Run Program
